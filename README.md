@@ -32,8 +32,8 @@ Cleaned dataset: AB_NYC_2019_cleaned.csv
 
 📒 Tools & Libraries Used
 
-Python (google colab Notebook)
-pandas
-numpy
-seaborn
-matplotlib
+Python (google colab Notebook),
+pandas,
+numpy,
+seaborn,
+matplotlib.
